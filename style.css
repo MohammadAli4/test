@@ -1,0 +1,88 @@
+i{
+    /* color:rgb(245, 162, 11); */
+color: black;    
+}
+
+.uio{
+    color: black;
+}
+#hui{
+    text-align: center;
+    margin: 40px;
+
+    border-radius: 50px;
+    background-color: gray;
+}
+
+#rer{
+    color: white;
+}
+
+/* #rui{
+    color: #002b44;
+} */
+#yui{
+    text-align: center;
+    margin: 40px;
+
+    border-radius: 50px;
+    background-color: #002b44
+    
+}
+/* #ppp{
+    text-align: center;
+    margin: 19px;
+    padding: 1px;
+    
+} */
+#cvv{
+    border: 1px ;
+    padding: 11px;
+    border-color: #002b44;
+    border-radius: 60px;
+}
+#huio{
+    color: #002b44;
+
+}
+#yuii{
+    text-align: center;
+    margin: 30px;
+    padding: 1px;
+border: 2px solid;
+    border-radius: 14px;
+    background-color: #598BAF
+    
+}
+#zz{
+    margin: 11px;
+    padding: 6px;
+    border: 2px solid;
+    border-radius: 14px;
+
+}
+#yuiio{
+    text-align: center;
+    margin: 30px;
+    padding: 1px;
+border: 2px solid;
+    border-radius: 14px;
+    background-color: #4C5762;
+    
+}
+#yuiioo{
+    text-align: center;
+    margin: 30px;
+    padding: 1px;
+border: 2px solid;
+    border-radius: 14px;
+    background-color: #7285A5;
+    
+}
+#color{
+    background-color:#E62117;
+    
+    color: beige;
+    border-radius: 300px;
+    border: 1px solid;
+}
